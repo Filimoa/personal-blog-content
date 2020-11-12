@@ -21,7 +21,7 @@ See the difference below, this reduced the memory footprint by 90%. It could als
 
 Once I launched I started getting some interesting feedback. I found this to be one of the most rewarding parts of this project - seeing people actually using it. It was clear some parts of the website would need to be clearer. For example it used to be that searching a resort doesn't trigger an update until you clicked out of the search bar causing users to think it was broken. Small details like this can have massive impacts on accessibility.
 
-[GIF OF LEV]
+![User Testing](https://github.com/Filimoa/personal-blog-content/blob/main/blog/powdamap/user-testing.jpg?raw=true)
 
 As I wrap up the project I can comfortably say I have handle on react and have learned magnitudes about the software development lifecycle. I'm going to try to clean up the code in the next few months and open source it on GitHub. In the meantime please feel free to reach out if you have questions on it.
 
